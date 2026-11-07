@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Z.AI</string>
+    <string name="settings">تنظیمات</string>
+    <string name="back">بازگشت</string>
+    <string name="language">زبان</string>
+    <string name="lang_system">سیستمی</string>
+    <string name="lang_fa">فارسی</string>
+    <string name="lang_en">انگلیسی</string>
+    <string name="theme">پوسته</string>
+    <string name="theme_system">سیستمی</string>
+    <string name="theme_dark">تیره</string>
+    <string name="theme_light">روشن</string>
+    <string name="behavior">رفتار</string>
+    <string name="desktop_mode">نسخهٔ دسکتاپ</string>
+    <string name="clear_data">پاک‌کردن اطلاعات مرور</string>
+    <string name="open_in_browser">بازکردن z.ai در مرورگر</string>
+    <string name="new_chat">گفتگوی جدید</string>
+    <string name="refresh">بازخوانی صفحه</string>
+    <string name="error_title">اتصال برقرار نشد</string>
+    <string name="error_retry">تلاش دوباره</string>
+    <string name="login_help_title">راهنمای ورود</string>
+    <string name="login_help_body">ورود با «کد تأیید ایمیل» داخل برنامه کار می‌کند. اگر ورود با گوگل داخل مرورگر داخلی کامل نشد، از گزینهٔ کد ایمیل استفاده کنید یا با دکمهٔ پایین z.ai را در مرورگر باز کنید.</string>
+    <string name="download_started">دانلود آغاز شد</string>
+    <string name="download_unsupported">این نوع دانلود پشتیبانی نمی‌شود</string>
+    <string name="about_title">دربارهٔ این برنامه</string>
+    <string name="about_body">این برنامه یک کلاینت غیررسمی و متن‌باز اندروید برای نسخهٔ وب z.ai است که با Kotlin و Jetpack Compose ساخته شده است. این پروژه وابستگی به شرکت Z.ai ندارد؛ همهٔ گفتگوها و حساب‌ها روی سرورهای z.ai باقی می‌مانند.</string>
+    <string name="version_label">نسخه</string>
+</resources>
